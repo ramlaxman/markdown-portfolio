@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- _Hosting Content:_  GitHub Pages, Jekyll, 
+- *Blogging Contents:* Wordpress, Drupal, Moodle, Blogger, Medium
+- **Managing Contents:** Git, JIRA, MS Office, G-Suite, Box.com, DropBox
+- __Writing Code, Commands and Docs:__ VSCode, Atom, SublimeText, Notepad++, Eclipse
+- _Docs Languages: **Markdown, rst**_
